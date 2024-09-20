@@ -1,0 +1,12 @@
+README.md
+*.pyc
+*.pyo
+*.pyd
+*.html
+*~
+__pycache__
+.pytest_cache
+venv
+lib
+*keys.py
+*input_samples.py
